@@ -5,7 +5,7 @@
 }
 
 body {
-  font-family: "Poppins", sans-serif;
+  font-family: Poppins, sans-serif;
   background: white;
   color: black;
 }
@@ -30,12 +30,6 @@ nav {
   align-items: center;
   justify-content: space-between;
   gap: 2rem;
-}
-
-.nav3 ul {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
 }
 
 .icon {
@@ -103,6 +97,9 @@ nav {
 
 .nav3 ul {
   list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
 }
 
 .nav3 ul li {
@@ -119,6 +116,10 @@ nav {
   font-size: 20px;
 }
 
+.nav3 ul li a:hover {
+  background: blue;
+}
+
 .nav3 ul li ul.dropdown li {
   display: block;
 }
@@ -131,11 +132,6 @@ nav {
   display: none;
 }
 
-.nav3 ul li a:hover {
-  background: blue;
-}
-
 .nav3 ul li:hover ul.dropdown {
   display: block;
 }
-
