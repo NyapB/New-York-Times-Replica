@@ -1,0 +1,24 @@
+{
+  "name": "new-york-times",
+  "version": "1.0.0",
+  "description": "An acdemic exercise to replicate the new yorrk times landing page inorder to practice and master html and css in the creation of websites",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NyapB/New-York-Times-Replica.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NyapB/New-York-Times-Replica/issues"
+  },
+  "homepage": "https://github.com/NyapB/New-York-Times-Replica#readme",
+  "dependencies": {
+    "stylelint": "^15.11.0",
+    "stylelint-config-standard": "^34.0.0"
+  }
+}
