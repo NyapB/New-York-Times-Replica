@@ -1,3 +1,7 @@
+header{
+  border-bottom: 4px #000;
+}
+
 nav {
   width: 100%;
   padding: 1rem 5%;

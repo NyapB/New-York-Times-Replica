@@ -11,40 +11,7 @@ body {
   padding: 20px;
 }
 
-.top-grid{
-  display: grid;
-  grid-template-columns: 1.1fr 2fr 1fr 1.8fr;
-  border-top: 1px Solid #121212;
-  border-bottom: 1px solid #121212;
-  padding: 16px 0;
-}
 
-/* vertical divider lines between main columns */
-.col-left,
-.col-center,
-.col-mid-right {
-  border-right: 1px solid #e2e2e2;
-  padding-right: 16px;
-}
-
-.col-center,
-.col-mid-right,
-.col-far-right {
-  padding-left: 16px;
-}
-
-h2{
-  font-size: 1.15rem;
-  line-height: 1.25;
-  margin-bottom: 8px;
-}
-
-p{
-  font-size: 0.88rem;
-  line-height: 1.4;
-  color: #5a5a5a;
-  margin-bottom: 8px;
-}
 
 
 
