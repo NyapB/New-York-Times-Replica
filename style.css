@@ -4,15 +4,12 @@
   box-sizing: border-box;
 }
 
-body {
+html, body {
   font-family: Georgia, "Times New Romans", serif;
-  background: white;
+  background: #fff;
   color: #121212;
-  padding: 20px;
+  padding: 0;
+  margin: 0 auto;
+  overflow-x: clip;
 }
-
-
-
-
-
 
